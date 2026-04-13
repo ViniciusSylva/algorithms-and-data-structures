@@ -1,97 +1,102 @@
-# 🧠 Algorithms and Data Structures
+# 📘 Lógica de Programação e Algoritmos
 
-## 🚀 About
+Este diretório contém anotações, exercícios e práticas realizadas durante o curso **Algoritmos**, disponível na plataforma **Curso em Vídeo**.
 
-This repository contains notes, exercises, and practice developed while studying **programming logic and algorithms**.
-
-The main goal is to build a strong foundation in **problem-solving and computational thinking**, independent of any specific programming language.
+O curso é ministrado pelo professor **Gustavo Guanabara** e tem como objetivo ensinar os **fundamentos da lógica de programação**, que servem como base para aprender qualquer linguagem de programação.
 
 ---
 
-## 🎯 Purpose
+## 🎯 Objetivo do curso
 
-To learn the fundamental concepts required to understand how programs work, developing the ability to **think logically and solve computational problems**.
+Ensinar os conceitos fundamentais necessários para compreender como programas funcionam, desenvolvendo a capacidade de **pensar logicamente e resolver problemas computacionais**.
 
-The concepts are explored using **pseudocode, flowcharts, and practical examples**.
-
----
-
-## 📚 Topics Covered
-
-### 🧠 Introduction to Programming Logic
-
-* What is logic
-* What is an algorithm
-* How computers execute instructions
-* Importance of logic for programmers
+O curso apresenta a lógica de programação de forma independente de linguagem, utilizando **pseudocódigo, fluxogramas e exemplos práticos**.
 
 ---
 
-### 📊 Flowcharts
+## 📚 Conteúdos estudados
 
-Visual representation of algorithms using diagrams.
+Durante o curso são abordados os seguintes tópicos:
 
-Main elements:
+### 🧠 Introdução à lógica de programação
 
-* Start and end
-* Processes
-* Decisions
-* Input and output
-* Execution flow
-
----
-
-### ✍️ Pseudocode
-
-Structured way to describe algorithms, independent of programming languages.
-
-Examples of structures:
-
-* Start
-* Input (`read`)
-* Output (`write`)
-* Conditionals (`if / else`)
-* Loops (`while`, `for`)
+* o que é lógica
+* o que é um algoritmo
+* como computadores executam instruções
+* importância da lógica para programadores
 
 ---
 
-### 📦 Variables
+### 📊 Fluxogramas
 
-Introduction to data storage concepts.
+Representação visual de algoritmos utilizando diagramas.
 
-Data types:
+São utilizados elementos como:
 
-* Integers
-* Floating-point numbers
-* Strings
-* Boolean values
-
-Also covered:
-
-* Variable declaration
-* Data input
-* Value manipulation
+* início e fim
+* processos
+* decisões
+* entrada e saída de dados
+* fluxo de execução
 
 ---
 
-### ➕ Operators
+### ✍️ Pseudocódigo
 
-**Arithmetic Operators**
+Forma de escrever algoritmos utilizando uma linguagem estruturada parecida com programação, mas independente de linguagem.
 
-* Addition
-* Subtraction
-* Multiplication
-* Division
-* Modulus
+Exemplo de estruturas usadas:
 
-**Relational Operators**
+* início
+* leia
+* escreva
+* se / senão
+* enquanto
+* para
 
-* Greater than
-* Less than
-* Equal to
-* Not equal to
+---
 
-**Logical Operators**
+### 📦 Variáveis
+
+Introdução ao conceito de armazenamento de dados.
+
+Tipos de dados abordados:
+
+* números inteiros
+* números reais
+* textos
+* valores lógicos
+
+Também são estudados:
+
+* declaração de variáveis
+* leitura de dados
+* manipulação de valores
+
+---
+
+### ➕ Operadores
+
+Operações utilizadas dentro dos algoritmos.
+
+Tipos abordados:
+
+**Operadores aritméticos**
+
+* soma
+* subtração
+* multiplicação
+* divisão
+* resto da divisão
+
+**Operadores relacionais**
+
+* maior que
+* menor que
+* igual
+* diferente
+
+**Operadores lógicos**
 
 * AND
 * OR
@@ -99,92 +104,87 @@ Also covered:
 
 ---
 
-### 🔀 Conditional Structures
+### 🔀 Estruturas condicionais
 
-Allow decision-making in programs.
+Permitem que o programa tome decisões.
 
-Topics:
+Estruturas estudadas:
 
-* `if`
-* `else`
-* Simple conditions
-* Compound conditions
-* Nested conditions
+* `se`
+* `senão`
+* condições simples
+* condições compostas
+* condições encadeadas
 
-Examples:
+Exemplos de problemas resolvidos:
 
-* Check if a number is even or odd
-* Age validation
-* Value comparison
-
----
-
-### 🔁 Loop Structures
-
-Allow repeated execution of instructions.
-
-Topics:
-
-* `while`
-* `for`
-* Counters
-* Accumulators
-
-Examples:
-
-* Number counting
-* Sum calculations
-* Multiplication tables
+* verificar se um número é par ou ímpar
+* verificar maioridade
+* comparar valores
 
 ---
 
-### 🧩 Practical Exercises
+### 🔁 Estruturas de repetição
 
-Various problems solved using algorithms:
+Permitem executar instruções várias vezes.
 
-* Sum of two numbers
-* Average calculation
-* Age calculation
-* Even/odd validation
-* Salary calculation
-* Loop-based counting
-* Multiplication tables
-* Data validation
+Estruturas estudadas:
 
----
+* `enquanto`
+* `para`
+* contadores
+* acumuladores
 
-## 🛠 Tools
+Exemplos de exercícios:
 
-* Visualg (used for pseudocode development and execution)
+* contagem de números
+* cálculo de somatórios
+* geração de tabuada
 
 ---
 
-## 📂 Repository Structure
+### 🧩 Exercícios práticos
 
-This repository may contain:
+Durante o curso são resolvidos diversos problemas utilizando algoritmos, como:
 
-* Solved exercises
-* Proposed challenges
-* Notes on programming logic
-* Content reviews
-
----
-
-## 📌 Notes
-
-Some original files from the course were lost before version control was used.
-
-Exercises may be recreated or improved over time to reinforce learning.
+* soma de dois números
+* cálculo de média
+* cálculo de idade
+* verificação de número par ou ímpar
+* cálculo de salário
+* contagem usando laços de repetição
+* geração de tabuada
+* validação de dados
 
 ---
 
-## 📚 Reference
+## 🛠 Ferramenta utilizada no curso
 
-Course available at:
+Os algoritmos são desenvolvidos utilizando o software **Visualg**, que permite escrever e executar pseudocódigo de forma simples para aprendizado de lógica de programação.
+
+---
+
+## 📂 Estrutura desta pasta
+
+Esta pasta pode conter:
+
+* exercícios resolvidos
+* desafios propostos
+* anotações sobre lógica de programação
+* revisões dos conteúdos estudados
+
+---
+
+## 📌 Observação
+
+Alguns arquivos originais deste curso foram perdidos antes do início do uso de Git para versionamento.
+
+Os exercícios poderão ser recriados ou revisados futuramente para reforçar o aprendizado.
+
+---
+
+## 📚 Referência
+
+Curso disponível em:
+
 https://www.cursoemvideo.com/
-
----
-
-## 📈 Status
-
-📚 Ongoing learning and continuous improvement.
